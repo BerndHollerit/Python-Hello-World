@@ -1,3 +1,5 @@
+
+
 print("Hello World")
 
 print (1 + 2)
@@ -28,5 +30,7 @@ print(my_string[0:-5])
 print(my_string[4:10])
 
 # User input
-name = input("Enter your name: ")
-print("Hello", name + "!")
+# name = input("Enter your name: ")
+# print("Hello", name + "!")
+
+import python_file_to_import
