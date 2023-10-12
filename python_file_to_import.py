@@ -1,1 +1,2 @@
-print("Imported python file")
+def display_message():
+    print("Imported python file")

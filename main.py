@@ -1,4 +1,4 @@
-
+import python_file_to_import
 
 print("Hello World")
 
@@ -33,4 +33,4 @@ print(my_string[4:10])
 # name = input("Enter your name: ")
 # print("Hello", name + "!")
 
-import python_file_to_import
+python_file_to_import.display_message()
